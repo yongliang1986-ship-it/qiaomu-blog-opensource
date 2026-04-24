@@ -27,3 +27,4 @@ NEXT_PUBLIC_SITE_URL = "https://your-domain.com"
 AI_BASE_URL = "https://api.openai.com/v1"
 AI_MODEL = "gpt-4o-mini"
 WORKERS_AI_MODEL = "@cf/meta/llama-3.1-8b-instruct"
+
