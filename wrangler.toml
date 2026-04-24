@@ -23,6 +23,7 @@ service = "qiaomu-blog-opensource"
 
 [[d1_databases]]
 binding = "DB"
+database_id = "13df76f6-15fc-447e-b1ea-3f6be09444c4"
 
 [[r2_buckets]]
 binding = "IMAGES"
